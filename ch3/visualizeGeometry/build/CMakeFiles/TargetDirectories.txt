@@ -1,0 +1,3 @@
+/home/seu/wsh/study/ch3/visualizeGeometry/build/CMakeFiles/rebuild_cache.dir
+/home/seu/wsh/study/ch3/visualizeGeometry/build/CMakeFiles/visualizeGeometry.dir
+/home/seu/wsh/study/ch3/visualizeGeometry/build/CMakeFiles/edit_cache.dir
