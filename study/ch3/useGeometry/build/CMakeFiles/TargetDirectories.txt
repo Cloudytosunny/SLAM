@@ -1,0 +1,3 @@
+/home/seu/wsh/study/ch3/useGeometry/build/CMakeFiles/rebuild_cache.dir
+/home/seu/wsh/study/ch3/useGeometry/build/CMakeFiles/eigenGeometry.dir
+/home/seu/wsh/study/ch3/useGeometry/build/CMakeFiles/edit_cache.dir
