@@ -52,7 +52,7 @@ int main(int argc, char **argv) {
   v_3d << 3, 2, 1;
   vd_3d << 4, 5, 6;
 
-  // 但是在Eigen里你不能混合两种不同类型的矩阵，像这样是错的
+  // 但是在Eigen里你不能混合两种不同类型(double or float)的矩阵，像这样是错的
   // Matrix<double, 2, 1> result_wrong_type = matrix_23 * v_3d;
   // 应该显式转换
   Matrix<double, 2, 1> result = matrix_23.cast<double>() * v_3d;
