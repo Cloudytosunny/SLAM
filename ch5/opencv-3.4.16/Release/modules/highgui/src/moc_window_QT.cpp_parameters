@@ -1,0 +1,14 @@
+-I/home/seu/wsh/study/ch5/opencv-3.4.16/Release/3rdparty/ippicv/ippicv_lnx/icv/include
+-I/home/seu/wsh/study/ch5/opencv-3.4.16/Release/3rdparty/ippicv/ippicv_lnx/iw/include
+-I/home/seu/wsh/study/ch5/opencv-3.4.16/Release
+-I/home/seu/wsh/study/ch5/opencv-3.4.16/modules/highgui
+-I/home/seu/wsh/study/ch5/opencv-3.4.16/Release/modules/highgui
+-D__OPENCV_BUILD=1
+-D_USE_MATH_DEFINES
+-D__STDC_CONSTANT_MACROS
+-D__STDC_LIMIT_MACROS
+-D__STDC_FORMAT_MACROS
+-DHAVE_WEBP
+-o
+/home/seu/wsh/study/ch5/opencv-3.4.16/Release/modules/highgui/src/moc_window_QT.cpp
+/home/seu/wsh/study/ch5/opencv-3.4.16/modules/highgui/src/window_QT.h
